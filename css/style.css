@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans&display=swap');
+
+
+
+body {
+    font-family: "Nunito Sans";
+    font-weight: 300;
+    width: 50%;
+    color:#000;
+    border: 2px solid #000;
+    margin-left:2%;
+    
+}
+h5{
+    background-color: blueviolet;
+    background-size: 50%;
+    color: white;
+    margin:0%;
+}
+h1{
+    background-color:black;
+    height:400;
+    margin:0%;
+    color:aliceblue;
+}
+
+
+h3{
+    font-weight: 400;
+    background-color:black;
+    margin:0%;
+    margin-top:3%;
+    color:white;
+} 
+body>main>table{
+    background-color: aliceblue;
+}
+
+
